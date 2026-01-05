@@ -39,6 +39,9 @@ Snake King is a retro-style snake game that runs directly in your Windows comman
 *Note: Controls are case-sensitive (lowercase letters)*
 
 ## 🚀 How to Run
+ **Run the executable**
+```bash
+snake_game.exe
 
 ### Prerequisites
 
@@ -50,7 +53,7 @@ Snake King is a retro-style snake game that runs directly in your Windows comman
 
 1. **Clone or download** the repository
    ```bash
-   git clone <(https://github.com/meheru68/Snake-King)>
+   git clone https://github.com/meheru68/Snake-King.git
    cd snake-king
    ```
 
@@ -147,6 +150,10 @@ Created three core functions that run continuously:
 ## 🤝 Contributing
 
 This is a learning project, but suggestions and improvements are welcome! Feel free to fork and submit pull requests.
+Please open an issue with:
+- Your Windows version
+- Compiler name and version
+- Steps to reproduce
 
 **Happy Gaming!** 🎉
 
